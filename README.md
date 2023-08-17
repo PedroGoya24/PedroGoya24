@@ -1,7 +1,8 @@
 ### Eae! Eu sou o PedroGoya :)
 
 - 🔭 Atualmente estou em busca do meu primeiro trabalho na área de programação.
-- 🌱 Estudando JavaScript, HTML, CSS e Python.
+- 🌱 Estudante da org Recode Pro.
+- ✔  Focado em HTML, CSS, JavaScript, Java e Sql.
 - 💬 Meu número de celular: (11)975245154
 - 📫 Este é meu Email: pedrogoya2005@outlook.com
 - 😄 Pronomes: Ele/Dele
