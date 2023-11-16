@@ -6,7 +6,7 @@
 - 💬 Meu número de celular: (11)975245154
 - 📫 Este é meu Email: pedrogoya2005@outlook.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato/Curiosidade: Sou apaixonado por programação, e principalmente aprender mais e mais sobre novas linguagens.
+- ⚡ Fato/Curiosidade: Sou apaixonado por programação, e principalmente me aprofundar mais e mais sobre as linguagens que domino.
 
 [![PedroGoya24's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGoya24&show_icons=true&theme=radical)](https://github.com/PedroGoya24/github-readme-stats)
 
