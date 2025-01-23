@@ -4,7 +4,7 @@
 - 🌱 Estudante da org Recode Pro.
 - ✔  Focado em HTML, CSS, JavaScript, Java, C# e Sql.
 - 💬 Meu número de celular: (11)975245154
-- 📫 Este é meu Email: pedrogoya2005@outlook.com
+- 📫 Este é meu Email: pedrogoya200524@gmail.com
 
 [![PedroGoya24's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGoya24&show_icons=true&theme=radical)](https://github.com/PedroGoya24/github-readme-stats)
 
