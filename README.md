@@ -1,4 +1,4 @@
-### Eae! Eu sou o PedroGoya :)
+### Eae! Eu sou o Pedro Goya :)
 
 - 🔭 Atualmente estou em busca do meu primeiro trabalho na área de programação.
 - 🌱 Estudante da org Recode Pro.
