@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em busca do meu primeiro trabalho na área de programação.
 - 🌱 Estudante da org Recode Pro.
-- ✔  Focado em HTML, CSS, JavaScript, Java e Sql.
+- ✔  Focado em HTML, CSS, JavaScript, Java, C# e Sql.
 - 💬 Meu número de celular: (11)975245154
 - 📫 Este é meu Email: pedrogoya2005@outlook.com
 
